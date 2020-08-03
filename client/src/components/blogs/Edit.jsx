@@ -61,7 +61,7 @@ const Edit = function (props) {
   return (
     <Container className="my-5">
       <header>
-        <h1>New Blog Post</h1>
+        <h1>Edit Blog Post</h1>
       </header>
 
       <hr/>
